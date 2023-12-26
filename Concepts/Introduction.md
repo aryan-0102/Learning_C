@@ -13,11 +13,11 @@ Our life is full of such tiny algorithms and depends on them to function and in 
 
 These are the graphical representation of the above mentioned algorithms , providing a visual gateway into the computer world with the help of some containers ( of specific shapes ) and some good old lines .
 
-<img src="" alt="Flowchart">
+<img src="https://github.com/aryan-0102/Learning_C/blob/main/Assets/Flowchart.jpg" alt="Flowchart">
 
 ## Next in line : [Data Types](#Data_types)
 
-Also some technical terms you should know about  --------> [Jargon](#Jargon)
+*   Also some technical terms you should know about  --------> [Jargon](#Jargon)
 
 
 
