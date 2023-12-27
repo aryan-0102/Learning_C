@@ -15,9 +15,9 @@ These are the graphical representation of the above mentioned algorithms , provi
 
 <img src="https://github.com/aryan-0102/Learning_C/blob/main/Assets/Flowchart.jpg" alt="Flowchart">
 
-## Next in line : [Data Types](#Data_types)
+## Next in line : [Data Types](#Data_types.md)
 
-*   Also some technical terms you should know about  --------> [Jargon](#Jargon)
+*   Also some technical terms you should know about  --------> [Jargon](#Jargon.md)
 
 
 
