@@ -31,7 +31,8 @@ int main() {
     free(arr);
 
     return 0;
-} ```
+}
+
 ## `calloc` Function
 
 The `calloc` function is used to allocate a specified number of blocks of memory, each with a specified number of bytes. It initializes the allocated memory to zero.
