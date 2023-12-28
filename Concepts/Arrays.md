@@ -4,12 +4,12 @@ An array is a collection of elements of the same data type, stored in contiguous
 
 SYNTAX : data_type array_name[array_size];
 
-Declaration : int numbers[5] ;
+Declaration : ```int numbers[5] ;```
 
-Initialisation : numbers[5] = {1, 2, 3, 4, 5};
+Initialisation :``` numbers[5] = {1, 2, 3, 4, 5}; ```
                     OR
 
-Initialising while declaring an array ------> int numbers[5] = {1, 2, 3, 4, 5};
+Initialising while declaring an array ------>``` int numbers[5] = {1, 2, 3, 4, 5};```
 
 ## Some important things to know : ##
 
