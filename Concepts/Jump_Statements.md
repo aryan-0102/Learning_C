@@ -30,7 +30,7 @@
   end_of_loop:
   // Code here is executed after the loop
 
-# `continue` 
+## `continue` 
 
 The `continue` statement is a control flow statement in C that is used in loops (`for`, `while`, `do-while`). Its primary purpose is to skip the rest of the loop's body and proceed to the next iteration.
 
@@ -43,12 +43,12 @@ for (int i = 0; i < 5; i++) {
     }
     // Code here is executed except when i is 2
 }
-
+```
 ## Functionality 
 
 When the continue statement is encountered, it causes the loop to jump to the next iteration without executing the remaining code within the loop for the current iteration. In the example above, if i is equal to 2, the continue statement will skip the subsequent code and move to the next iteration.
 
-# The `return` Statement in C
+## The `return` Statement in C
 
 In C programming, the `return` statement is used to exit a function and return a value to the calling function. It is commonly used in functions that have a non-void return type.
 
