@@ -32,7 +32,7 @@ int main() {
 
     return 0;
 }
-
+```
 ## `calloc` Function
 
 The `calloc` function is used to allocate a specified number of blocks of memory, each with a specified number of bytes. It initializes the allocated memory to zero.
@@ -42,7 +42,8 @@ The `calloc` function is used to allocate a specified number of blocks of memory
 ```c
 #include <stdlib.h>
 
-void *calloc(size_t num_elements, size_t element_size);```
+void *calloc(size_t num_elements, size_t element_size);
+```
 
 ## `realloc` Function
 
