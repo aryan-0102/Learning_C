@@ -36,5 +36,5 @@ Each member of the structure can have a different data type.
 It's often used to simplify complex declarations or to create aliases for data types.
 >
 
-  <img src="https://github.com/aryan-0102/Learning_C/blob/main/Assets/Tokens.jpg" >
+  <img src="https://github.com/aryan-0102/Learning_C/blob/main/Assets/data_types.jpg" >
 ### If you're new to programming, it's normal to feel overwhelmed at first. However, to help you get started, let's focus on primary data types. By doing so, you'll gain a strong foundation that will undoubtedly make more complex data types easier to handle in the future. Below's a simple diagram to make it easier.
