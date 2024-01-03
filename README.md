@@ -1,3 +1,5 @@
+# ` NOT BEING MAINTAINED ` #
+ ## [Check C++ REPOSITORY](https://github.com/aryan-0102/CPP) ##
 # Aryan's C Learning Repository
 <img src='Assets/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif'>
 
